@@ -1,19 +1,6 @@
-# README – Standalone qgis2web Export
+Antonius Mario Tresnojaya 
+41823010054
+Matakuliah Sistem informasi Geografis
 
-This export is completely "self-contained".
-
-To view the map, simply open "index.html" by double-clicking it.
-No web server or additional software is required.
-
-The map works because all the required JavaScript libraries are included
-in the export. The application loads the GeoJSON layer data and their styles
-directly from the local files.
-
-## Publishing on a Website
-
-If you upload the entire folder to a web server, the map will work 
-immediately by opening the "index.html" file.
-
-Example:
-
-"https://www.example.com/my-map/index.html"
+berikut link nya :
+https://elaborate-daifuku-ab51f4.netlify.app/
